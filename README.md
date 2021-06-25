@@ -33,7 +33,7 @@ An example of the ground truth (left) and the prediction (right) is shown below:
 
 Gorund Truth                             |Prediction
 :-----------------------------------------:|:-----------------------------------------:
-![Groundtruth](images/ground_truth.png)  | ![Output](images/output.png)
+![Groundtruth](images/ground_truth.PNG)  | ![Output](images/output.PNG)
 
 ## References
 
