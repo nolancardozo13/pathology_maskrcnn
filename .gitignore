@@ -2,6 +2,18 @@
 *.jpg
 *.json
 
+!/final_pannuke_dataset/train/image_0.jpg
+!/final_pannuke_dataset/train/image_1.jpg
+
+!/Pannuke_dataset/train/image_0/images/image_0.jpg
+!/Pannuke_dataset/train/image_0/masks/inflammatory/masks_0.jpg
+!/Pannuke_dataset/train/image_0/masks/inflammatory/masks_1.jpg
+!/Pannuke_dataset/train/image_0/masks/neoplastic/masks_0.jpg
+!/Pannuke_dataset/train/image_0/masks/neoplastic/masks_1.jpg
+
+!/Pannuke_dataset/val/image_1/images/image_1.jpg
+!/Pannuke_dataset/val/image_1/masks/inflammatory/masks_0.jpg
+!/Pannuke_dataset/val/image_1/masks/softtissue/masks_0.jpg
 
 # Jupyter Notebook
 */.ipynb_checkpoints
