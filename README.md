@@ -31,7 +31,9 @@ The created folder and json annotation files can be now used to train the MaskRC
 ## Output
 An example of the ground truth (left) and the prediction (right) is shown below:
 
-![Ground truth](images/ground_truth.png)      ![Output](images/output.png)
+Gorund Truth                             |Prediction
+:-----------------------------------------:|:-----------------------------------------:
+![Groundtruth](images/ground_truth.png)  | ![Output](images/output.png)
 
 ## References
 
